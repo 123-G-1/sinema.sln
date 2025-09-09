@@ -1,0 +1,8 @@
+C:\sinema\obj\Debug\sinema.csproj.AssemblyReference.cache
+C:\sinema\obj\Debug\sinema.csproj.CoreCompileInputs.cache
+C:\sinema\bin\Debug\sinema.exe.config
+C:\sinema\bin\Debug\sinema.exe
+C:\sinema\bin\Debug\sinema.pdb
+C:\sinema\obj\Debug\sinema.exe
+C:\sinema\obj\Debug\sinema.pdb
+C:\sinema\obj\Debug\sinema.exe.config
